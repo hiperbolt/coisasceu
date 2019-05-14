@@ -6,10 +6,10 @@ from datetime import datetime
 import json
 import time
 
-consumer_key = "nodREoix8wkXZrhPC6fwbO87T"
-consumer_secret = "WrAdXE0asOOpJ0pjxAGITkNo8sPfzKt3CWI1UPvL3UQkByRhgB"
-access_token = "1046075316706390017-bJQmMWYj8MNIFfpE2ao3qdQgxa5hNL"
-access_token_secret = "Y4wcC0TR3270a99UhP3fSP5ZJlQRO4wKqsHUidILupvjl"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # GLOBAL VARIABLES (IF ANY)
 moonPhasesTable = ("lua nova", "lua cheia", "lua minguante", "lua crescente")
